@@ -13,7 +13,7 @@ django-admin startproject django_project
 
 ### make sure server works
 ```
-python3 manage.py runserver 0.0.0:8000
+python3 manage.py runserver 0.0.0.0:8000
 ```
 Then open in browser http://127.0.0.1:8000/
 
@@ -31,3 +31,4 @@ git push -u origin master
 
 ## To do
 - [ ] follow https://docs.djangoproject.com/en/3.0/intro/tutorial01/ to make first app
+  - [ ] continue from here https://docs.djangoproject.com/en/3.0/intro/tutorial02/
