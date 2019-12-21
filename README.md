@@ -30,5 +30,6 @@ git push -u origin master
 ```
 
 ## To do
-- [ ] follow https://docs.djangoproject.com/en/3.0/intro/tutorial01/ to make first app
-  - [ ] continue from here https://docs.djangoproject.com/en/3.0/intro/tutorial02/
+- [x] follow https://docs.djangoproject.com/en/3.0/intro/tutorial01/ to make first app
+  - [x] continue from here https://docs.djangoproject.com/en/3.0/intro/tutorial02/
+  - [ ] continue from here https://docs.djangoproject.com/en/3.0/intro/tutorial03/
